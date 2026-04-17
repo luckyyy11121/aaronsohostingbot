@@ -6,14 +6,14 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
+    "ip": "aaronswanki.aternos.me",
+    "port": 26445,
     "version": "1.21.1"
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": 0,
     "z": 0
   },
   "utils": {
