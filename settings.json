@@ -2,7 +2,7 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "aaronsobot",
-    "password": "",
+    "password": "Dih20267%",
     "type": "offline"
   },
   "server": {
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "Dih20267%"
     },
     "anti-afk": {
       "enabled": true,
@@ -28,17 +28,17 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 400,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "im fake",
+        "aaron enn goat,gojo a fricking fraud!",
+        "I like feet!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 20000,
+    "auto-reconnect-delay": 200,
+    "max-reconnect-delay": 200,
     "periodic-rejoin": {
       "enabled": true,
       "min-interval": 20,
@@ -50,15 +50,15 @@
     "circle-walk": {
       "enabled": true,
       "radius": 4,
-      "speed": 3000
+      "speed": 300
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 500
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
